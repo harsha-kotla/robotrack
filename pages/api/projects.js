@@ -1,4 +1,3 @@
-// pages/api/projects.js
 import { PrismaClient } from '@prisma/client';
 
 const prisma = new PrismaClient();
